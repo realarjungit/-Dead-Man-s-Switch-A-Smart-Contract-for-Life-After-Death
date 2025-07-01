@@ -54,14 +54,9 @@ It allows you to:
 - Remix IDE / Hardhat (optional)
 - Chainlink (for future automation)
 
-## 📸 Demo Image
-> ![dead-mans-switch-demo](link_to_thumbnail_image)
-
 ## 🧑‍💻 Author
-
 Built with care by [@buildArjun](https://x.com/buildArjun)  
 Follow for more smart contract builds, threads, and real-world dApps.
 
 ## 📝 License
 MIT License
-
